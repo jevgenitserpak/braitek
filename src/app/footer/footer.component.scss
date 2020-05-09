@@ -1,0 +1,19 @@
+:host {
+  width: 100%;
+}
+
+.content {
+  background-color: darkslategray;
+  height: 400px;
+  position: relative;
+}
+
+.footer-copyright {
+  position: absolute;
+  background-color: rgb(0, 0, 0, 0.1);
+  height: 30px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  vertical-align: middle;
+}
